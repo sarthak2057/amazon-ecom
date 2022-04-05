@@ -1,4 +1,6 @@
-#MERN AMAZON
+# MERN AMAZON
 
-#Creat-react-app
-#Create Git Repository
+## Process
+
+1 Creat-react-app
+2 Create Git Repository
